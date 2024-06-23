@@ -11,8 +11,8 @@ const Services = () => {
       <div className="flex flex-col gap-4">
         <h1 className="text-[40px] font-bold">How we can help you</h1>
         <p className="text-[20px] text-gray-500">
-          Follow our newsletter. We will regulary update our latest project and
-          availability.
+          Sigue nuestro boletín. Actualizaremos periódicamente nuestro último proyecto y
+          disponibilidad.
         </p>
         <form className="w-full">
           <div className="relative">

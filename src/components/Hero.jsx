@@ -13,7 +13,7 @@ const Hero = () => {
       <div className="md:col-span-5 flex items-center justify-center p-8 xl:p-16">
         <div className="flex flex-col gap-8">
           <h1 className="text-5xl xl:text-7xl font-bold xl:leading-[7.5rem]">
-            Web Design Impactful Digital{" "}
+            Diseño Web Impactante Digital{" "}
             <span className="text-primary py-2 px-6 border-8 border-primary relative inline-block">
               Products
               <RiCheckboxBlankCircleFill className="text-white text-base absolute -left-5 -top-5 p-2 bg-primary rounded-full box-content" />
@@ -23,16 +23,16 @@ const Hero = () => {
             </span>
           </h1>
           <p className="text-gray-500 text-2xl leading-[2.5rem]">
-            Help find solutions with intitutive and in accordance with client
-            business goals. we provide a high-quality services.
+            Ayudar a encontrar soluciones de forma intuitiva y de acuerdo con el cliente.
+            objetivos de negocio. Brindamos servicios de alta calidad.
           </p>
           <div className="flex flex-col md:flex-row items-center gap-4">
             <button className="w-full xl:w-auto bg-primary text-white py-2 px-8 rounded-xl text-xl">
-              Contact Us
+              Contactanos
             </button>
             <button className="w-full xl:w-auto flex items-center justify-start text-left gap-4 py-2 px-8 rounded-xl text-xl">
               <RiPlayFill className="bg-secondary text-primary p-4 rounded-full box-content" />{" "}
-              Watch our <br /> introduction video
+              Vea nuestro <br /> vídeo de introducción
             </button>
           </div>
         </div>
@@ -69,7 +69,7 @@ const Hero = () => {
               />
             </div>
             <h2 className="text-xl font-bold tracking-[1px] text-gray-800">
-              120 + Employees
+              120 + Empleados
             </h2>
             <div className="flex items-center gap-2 text-lg text-gray-500">
               <RiStarFill className="text-primary" /> 5.0 (3.1k Reviews)

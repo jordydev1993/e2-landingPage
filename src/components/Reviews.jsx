@@ -6,7 +6,7 @@ const Reviews = () => {
   return (
     <div className="p-8 flex flex-col gap-8 bg-gray-100">
       <h1 className="text-[40px] text-center font-black">
-        Let’s hear What they says
+        Escuchemos lo que ellos dicen
       </h1>
       <div className="flex justify-center gap-4">
         <span className="text-5xl text-primary">

@@ -5,7 +5,7 @@ const Works = () => {
     <div id="aboutUs" className="p-8 xl:p-20">
       <div className="mb-8">
         <h1 className="text-[40px] font-black">
-          We create world-class digital products
+          Creamos productos digitales de clase mundial
         </h1>
         <p className="text-xl text-gray-500">
           By information about design the world to the best instructors, heatc
@@ -35,7 +35,7 @@ const Works = () => {
             />
             <p className="text-gray-500">App Design - June 20, 2022</p>
             <h3 className="text-2xl font-bold">
-              Redesign channel website landng page
+                Rediseño de la página de inicio del sitio web del canal
             </h3>
           </div>
           <div className="flex flex-col gap-4">
@@ -45,7 +45,7 @@ const Works = () => {
             />
             <p className="text-gray-500">App Design - June 20, 2022</p>
             <h3 className="text-2xl font-bold">
-              New Locator App For a New Company
+                Nueva aplicación de localización para una nueva empresa
             </h3>
           </div>
           <div className="flex flex-col gap-4">
@@ -55,7 +55,7 @@ const Works = () => {
             />
             <p className="text-gray-500">App Design - June 20, 2022</p>
             <h3 className="text-2xl font-bold">
-              Rental Rooms Web App Platform
+                Plataforma de aplicación web de habitaciones de alquiler
             </h3>
           </div>
           <div className="flex flex-col gap-4">
@@ -65,7 +65,7 @@ const Works = () => {
             />
             <p className="text-gray-500">App Design - June 20, 2022</p>
             <h3 className="text-2xl font-bold">
-              Calendar App for Big SASS Company
+              Aplicación de calendario para Big SASS Company
             </h3>
           </div>
         </div>

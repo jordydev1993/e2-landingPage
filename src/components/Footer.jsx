@@ -43,32 +43,32 @@ const Footer = () => {
       </div>
       <div className="mt-8">
         <h3 className="text-lg font-bold text-white text-center md:text-left">
-          Company
+          Compañia
         </h3>
         <nav className="mt-4 flex flex-col md:flex-row items-center justify-between gap-4">
           <a
             href="#"
             className="text-gray-300 mt-4 hover:text-white transition-colors"
           >
-            About Us
+            Nosotros
           </a>
           <a
             href="#"
             className="text-gray-300 mt-4 hover:text-white transition-color"
           >
-            Press
+            Prensa
           </a>
           <a
             href="#"
             className="text-gray-300 mt-4 hover:text-white transition-color"
           >
-            Investors
+            Inversores
           </a>
           <a
             href="#"
             className="text-gray-300 mt-4 hover:text-white transition-color"
           >
-            Events
+            Eventos
           </a>
           <a
             href="#"
@@ -86,13 +86,13 @@ const Footer = () => {
             type="button"
             className="font-semibold py-2 px-6 bg-primary text-white rounded-xl"
           >
-            Contact Us
+            Contactanos
           </button>
         </nav>
       </div>
       <div className="mt-20">
         <p className="text-gray-300 text-center">
-          © jotredev 2022 - All Rights Reserved
+          © jordydev 2024 - All Rights Reserved
         </p>
       </div>
     </footer>
