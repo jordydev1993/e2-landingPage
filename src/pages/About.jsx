@@ -1,4 +1,3 @@
-
 import React from "react";
 
 const About = () => {
@@ -20,7 +19,7 @@ const About = () => {
               alt="Miembro del equipo 1"
               className="w-32 h-32 object-cover rounded-full"
             />
-            <h3 className="text-[20px] font-semibold mt-4">Juan Pérez</h3>
+            <h3 className="text-[20px] font-semibold mt-4">María Pérez</h3>
             <p className="text-gray-500">CEO</p>
           </div>
           <div className="flex flex-col items-center">
@@ -29,7 +28,7 @@ const About = () => {
               alt="Miembro del equipo 2"
               className="w-32 h-32 object-cover rounded-full"
             />
-            <h3 className="text-[20px] font-semibold mt-4">Maria López</h3>
+            <h3 className="text-[20px] font-semibold mt-4">Juan López</h3>
             <p className="text-gray-500">CTO</p>
           </div>
           <div className="flex flex-col items-center">
@@ -38,7 +37,7 @@ const About = () => {
               alt="Miembro del equipo 3"
               className="w-32 h-32 object-cover rounded-full"
             />
-            <h3 className="text-[20px] font-semibold mt-4">Maxi García</h3>
+            <h3 className="text-[20px] font-semibold mt-4">Ana García</h3>
             <p className="text-gray-500">CFO</p>
           </div>
         </div>
@@ -62,20 +61,3 @@ const About = () => {
 };
 
 export default About;
-=======
-// src/pages/About.jsx
-import React from 'react';
-
-const About = () => {
-  return (
-    <section className="min-h-[90vh] p-8">
-      <h1 className="text-4xl font-bold">Sobre Nosotros</h1>
-      <p className="text-xl text-gray-500 mt-4">
-        Información sobre la compañía, misión, visión, y valores.
-      </p>
-    </section>
-  );
-};
-
-export default About;
->>>>>>> 85c60de07607060d06e6755924203e37dcb36ed0
