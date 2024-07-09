@@ -26,7 +26,7 @@ const Products = () => {
           </div>
           <div className="flex flex-col items-center">
             <img
-              src="/src/assets/products/product-2.jpg"
+              src="product-2.jpg"
               alt="Producto 2"
               className="w-full h-48 object-cover rounded-lg"
             />
@@ -36,7 +36,7 @@ const Products = () => {
           </div>
           <div className="flex flex-col items-center">
             <img
-              src="/src/assets/products/product-3.jpg"
+              src="product-3.jpg"
               alt="Producto 3"
               className="w-full h-48 object-cover rounded-lg"
             />
