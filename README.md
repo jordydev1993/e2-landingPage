@@ -4,7 +4,7 @@ Necesitarás tener instalado ``` node.js ``` a partir de la versión 14 y tener 
 >
 1. Necesitamos clonar el proyecto añadiendo la siguiente linea de comando en una terminal
 ```
-git clone https://github.com/jordydev1993/e1-landinpage.git
+git clone https://github.com/jordydev1993/e2-landingPage
 ```
 >
 2. Entramos a la carpeta que acabamos de clonar e instalamos las dependencias necesarias
