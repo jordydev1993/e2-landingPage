@@ -16,7 +16,7 @@ const Products = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8 mt-4">
           <div className="flex flex-col items-center">
             <img
-              src="/src/assets/products/product-1.jpg"
+              src="product-1.jpg"
               alt="Producto 1"
               className="w-full h-48 object-cover rounded-lg"
             />
